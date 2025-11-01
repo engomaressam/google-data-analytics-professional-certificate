@@ -8,9 +8,9 @@ This repository mirrors the Google Data Analytics Professional Certificate, incl
 ## Certificates
 
 ### Professional Certificate
-- PDF: [Google Data Analytics Professional Certificate - Coursera 5P960KCZ6OCQ.pdf](https://github.com/engomaressam/google-data-analytics-professional-certificate/blob/main/Google Data Analytics Professional Certificate - Coursera 5P960KCZ6OCQ.pdf)
+- PDF: [Google Data Analytics Professional Certificate - Coursera 5P960KCZ6OCQ.pdf](./Google Data Analytics Professional Certificate - Coursera 5P960KCZ6OCQ.pdf)
 
-![Professional Certificate](https://raw.githubusercontent.com/engomaressam/google-data-analytics-professional-certificate/main/Google Data Analytics Professional Certificate - Coursera 5P960KCZ6OCQ.png)
+![Professional Certificate](Google Data Analytics Professional Certificate - Coursera 5P960KCZ6OCQ.png)
 
 ### Course Certificates
 
