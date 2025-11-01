@@ -1,0 +1,21 @@
+# Include standard documents
+# (By default, these are tracked; we list heavy assets to exclude below)
+
+# Exclude heavy media and archives
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.tar
+*.gz
+*.rar
+
+# OS/IDE noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+node_modules/
+dist/
+build/
